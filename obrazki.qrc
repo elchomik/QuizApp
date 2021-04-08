@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/dwa.jpg</file>
+        <file>img/jeden.jpg</file>
+        <file>img/zero.jpg</file>
+        <file>img/indeks.png</file>
+        <file>img/trzy.jpg</file>
+        <file>img/morze.jpg</file>
+        <file>img/mapa.png</file>
+        <file>img/lublin.jpg</file>
+        <file>img/cztery.jpg</file>
+        <file>img/piec.jpg</file>
+        <file>img/herb.png</file>
+        <file>img/lbn.jpg</file>
+    </qresource>
+</RCC>
